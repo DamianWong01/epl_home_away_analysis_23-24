@@ -13,7 +13,7 @@ seaborn
 plotly
 
 ## Key Findings
-Data visualization is crucial for understanding insights. I used Plotly to create an interactive line graph showcasing the average points per game for each team at home and away.
+Data visualization is crucial for understanding insights. I used Plotly to create an interactive line graph showcasing the average points per game for each team at home and away. The interactive plot can be found [here](https://damianwong01.github.io/epl_home_away_analysis_23-24/interactive_plot.html).
 
 ### Facet Grid with Seaborn
 For a more granular perspective, I created a facet grid using Seaborn. This displays individual point plots for each team, visually representing their average points per game at home and away.
