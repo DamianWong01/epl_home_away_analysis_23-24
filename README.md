@@ -11,7 +11,6 @@ matplotlib
 pandas
 seaborn
 plotly
-Structure
 
 ## Key Findings
 Data visualization is crucial for understanding insights. I used Plotly to create an interactive line graph showcasing the average points per game for each team at home and away.
